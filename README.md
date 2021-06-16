@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @thebugisreal
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Hưng
+- 👀 I’m a Web developer
+- 🌱 I’m currently learning JavaScript in depth
+- 💞️ Nice to see you here
+- 📫 Reach me at: huyhung.dev@gmail.co
 
 <!---
 thebugisreal/thebugisreal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
