@@ -2,7 +2,7 @@
 - 👀 I’m a Web developer
 - 🌱 I’m currently learning JavaScript in depth
 - 💞️ Nice to see you here
-- 📫 Reach me at: huyhung.dev@gmail.co
+- 📫 Reach me at: huyhung.dev@gmail.com
 
 <!---
 thebugisreal/thebugisreal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
